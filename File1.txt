@@ -1,5 +1,1 @@
-<<<<<<< Updated upstream
-=======
-This is for the master branch
->>>>>>> Stashed changes
 This is meant to be for the dev branch
