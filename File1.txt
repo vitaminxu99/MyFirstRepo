@@ -1,3 +1,1 @@
-changing the text in the file in the master branch
-changing the text in the file in the conflict branch
-
+This is for the master branch
